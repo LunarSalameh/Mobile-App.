@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="name">Name</string>
+    <string name="age_calculator">Age Calulator</string>
+    <string name="birth_date">Enter Your Birth Date:</string>
+    <string name="birth_year">Year:</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_year_of_birth">Enter year of birth</string>
+    <string name="birth_month">Month</string>
+    <string name="enter_month_of_birth">Enter month of birth</string>
+    <string name="birth_day">Day</string>
+    <string name="enter_day_of_birth">Enter day of birth</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="age_is">"Age "</string>
+</resources>
